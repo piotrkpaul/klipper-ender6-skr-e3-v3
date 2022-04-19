@@ -10,6 +10,9 @@ Configuration overview:
 
 
 Created to be compatible with versions below:
+
 **fluidd**: v1.17.2
+
 **klipper**: v0.10.0-368-g4a8a76ea
+
 **moonraker**: v0.7.1-546-g47c6245
