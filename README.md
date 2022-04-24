@@ -13,11 +13,10 @@ Configuration overview:
 
 
 Fans overview:
-**FAN0:** hotend fan
 
-**FAN1:** part cooling fan
-
-**FAN2:** board fan
+1. **FAN0:** hotend fan
+2. **FAN1:** part cooling fan
+3. **FAN2:** board fan
 
 
 
