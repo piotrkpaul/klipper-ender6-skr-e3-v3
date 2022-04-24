@@ -11,11 +11,15 @@ Configuration overview:
 5. **Camera:** Logitech C920 HD webcam
 6. **Input Shaper** configured with ADXL345 (connected to Raspberry Pi 4B)
 
+
+Fans overview:
 **FAN0:** hotend fan
 
-**FAN1:** park cooling fan
+**FAN1:** part cooling fan
 
 **FAN2:** board fan
+
+
 
 Created to be compatible with versions below:
 
